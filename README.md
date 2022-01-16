@@ -1,3 +1,5 @@
+hello, please read this readme in raw, thank you
+
 rtc - real time chat
 
 default - websocket app
